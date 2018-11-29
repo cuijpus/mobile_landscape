@@ -99,18 +99,18 @@
     </tr>   
     <tr>
         <th>VIVO</th>
-        <th>1月</th>
-        <th>2月</th>
-        <th>3月</th>
-        <th>4月</th>
-        <th>5月</th>
-        <th>6月</th>
-        <th>7月</th>
-        <th>8月</th>
-        <th>9月</th>
-        <th>10月</th>
-        <th>11月</th>
-        <th>12月</th>
+        <th></th>
+        <th></th>
+        <th>X21</th>
+        <th></th>
+        <th></th>
+        <th>NEX</th>
+        <th></th>
+        <th></th>
+        <th>X23</th>
+        <th></th>
+        <th></th>
+        <th></th>
     </tr>  
     <tr>
         <th>XiaoMi</th>
@@ -172,7 +172,9 @@
 
 2018.8.9 [三星电子正式发布了Galaxy Note9旗舰智能手机，以及最新的Galaxy Watch智能手表以及GalaxyHome智能音箱](http://mobile.zol.com.cn/695/6955327.html)<br>
 
-2018.6.12 [OPPO FindX] <br>
+2018.6.20 [OPPO FindX] <br>
+
+2018.6.12 [VIVO NEX] <br>
 
 2018.6.6 [荣耀play & GPU Turbo] <br>
 
