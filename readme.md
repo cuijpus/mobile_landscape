@@ -39,18 +39,18 @@
     </tr>
     <tr>
         <th>苹果</th>
-        <th>1月</th>
-        <th>2月</th>
-        <th>3月</th>
-        <th>4月</th>
-        <th>5月</th>
-        <th>6月</th>
-        <th>7月</th>
-        <th>8月</th>
-        <th>9月</th>
-        <th>10月</th>
-        <th>11月</th>
-        <th>12月</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th>XR/XS</th>
+        <th></th>
+        <th></th>
+        <th></th>
     </tr>
     <tr>
         <th>华为</th>
@@ -149,6 +149,7 @@
 10.26国内发布，980芯片；
 [官网宣传页](https://sale.vmall.com/hwmate.html?cid=97010)<br>
 
+2018.9.13 [2018秋季发布会]http://tech.sina.com.cn/zt_d/newiphone/<br>
 
 2018.9.5 [vivo X23发布：双涡轮引擎是亮点，Jovi物联成惊喜 ](https://www.leiphone.com/news/201809/1MM4KIwZPLpI4jlh.html)<br>
 
