@@ -9,28 +9,124 @@
 <table>
     <tr>
         <th>厂家</th>
-        <th>1月份</th>
-        <th>2月份</th>
-        <th>3月份</th>
+        <th>1月</th>
+        <th>2月</th>
+        <th>3月</th>
+        <th>4月</th>
+        <th>5月</th>
+        <th>6月</th>
+        <th>7月</th>
+        <th>8月</th>
+        <th>9月</th>
+        <th>10月</th>
+        <th>11月</th>
+        <th>12月</th>
     </tr>
     <tr>
         <th>三星</th>
-        <th></th>
-        <th>2018.2.25 [三星在MWC2018上发布了三星Galaxy S9](https://baike.baidu.com/item/%E4%B8%89%E6%98%9FGalaxy%20S9/20297129?fr=aladdin)<br></th>
-        <th>标准输入</th>
+        <th>1月</th>
+        <th>2月</th>
+        <th>3月</th>
+        <th>4月</th>
+        <th>5月</th>
+        <th>6月</th>
+        <th>7月</th>
+        <th>8月</th>
+        <th>9月</th>
+        <th>10月</th>
+        <th>11月</th>
+        <th>12月</th>
     </tr>
     <tr>
         <th>苹果</th>
-        <th>/dev/stdout</th>
-        <th>1</th>
-        <th>标准输出</th>
+        <th>1月</th>
+        <th>2月</th>
+        <th>3月</th>
+        <th>4月</th>
+        <th>5月</th>
+        <th>6月</th>
+        <th>7月</th>
+        <th>8月</th>
+        <th>9月</th>
+        <th>10月</th>
+        <th>11月</th>
+        <th>12月</th>
     </tr>
     <tr>
         <th>华为</th>
-        <th>/dev/stderr</th>
-        <th>2</th>
-        <th>标准错误输出</th>
+        <th>1月</th>
+        <th>2月</th>
+        <th>3月</th>
+        <th>4月</th>
+        <th>5月</th>
+        <th>6月</th>
+        <th>7月</th>
+        <th>8月</th>
+        <th>9月</th>
+        <th>10月</th>
+        <th>11月</th>
+        <th>12月</th>
     </tr>
+    <tr>
+        <th>OPPO</th>
+        <th>1月</th>
+        <th>2月</th>
+        <th>3月</th>
+        <th>4月</th>
+        <th>5月</th>
+        <th>6月</th>
+        <th>7月</th>
+        <th>8月</th>
+        <th>9月</th>
+        <th>10月</th>
+        <th>11月</th>
+        <th>12月</th>
+    </tr>   
+    <tr>
+        <th>VIVO</th>
+        <th>1月</th>
+        <th>2月</th>
+        <th>3月</th>
+        <th>4月</th>
+        <th>5月</th>
+        <th>6月</th>
+        <th>7月</th>
+        <th>8月</th>
+        <th>9月</th>
+        <th>10月</th>
+        <th>11月</th>
+        <th>12月</th>
+    </tr>  
+    <tr>
+        <th>XiaoMi</th>
+        <th>1月</th>
+        <th>2月</th>
+        <th>3月</th>
+        <th>4月</th>
+        <th>5月</th>
+        <th>6月</th>
+        <th>7月</th>
+        <th>8月</th>
+        <th>9月</th>
+        <th>10月</th>
+        <th>11月</th>
+        <th>12月</th>
+    </tr>  
+    <tr>
+        <th>Others</th>
+        <th>1月</th>
+        <th>2月</th>
+        <th>3月</th>
+        <th>4月</th>
+        <th>5月</th>
+        <th>6月</th>
+        <th>7月</th>
+        <th>8月</th>
+        <th>9月</th>
+        <th>10月</th>
+        <th>11月</th>
+        <th>12月</th>
+    </tr>    
 </table>
 
 2018.11.28 [手游最佳打开方式 红魔Mars电竞手机发布](http://mobile.zol.com.cn/703/7039272.html)<br>
