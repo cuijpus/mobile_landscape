@@ -8,25 +8,25 @@
 
 <table>
     <tr>
-        <th>设备</th>
-        <th>设备文件名</th>
-        <th>文件描述符</th>
-        <th>类型</th>
+        <th>厂家</th>
+        <th>1月份</th>
+        <th>2月份</th>
+        <th>3月份</th>
     </tr>
     <tr>
-        <th>键盘</th>
-        <th>/dev/stdin</th>
-        <th>0</th>
+        <th>三星</th>
+        <th></th>
+        <th>2018.2.25 [三星在MWC2018上发布了三星Galaxy S9](https://baike.baidu.com/item/%E4%B8%89%E6%98%9FGalaxy%20S9/20297129?fr=aladdin)<br></th>
         <th>标准输入</th>
     </tr>
     <tr>
-        <th>显示器</th>
+        <th>苹果</th>
         <th>/dev/stdout</th>
         <th>1</th>
         <th>标准输出</th>
     </tr>
     <tr>
-        <th>显示器</th>
+        <th>华为</th>
         <th>/dev/stderr</th>
         <th>2</th>
         <th>标准错误输出</th>
