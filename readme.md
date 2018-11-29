@@ -24,7 +24,17 @@
 
 2018.9.5 [vivo X23发布：双涡轮引擎是亮点，Jovi物联成惊喜 ](https://www.leiphone.com/news/201809/1MM4KIwZPLpI4jlh.html)<br>
 
+2018.8.21 [OPPO R17] <br>
 
+2018.6.12 [OPPO FindX] <br>
+
+2018.5.31 [Xiami 8]<br>
+
+2018.3.31 [OPPO R15] <br>
+
+2018.3.27 [P20发布] <br>
+
+2018.3.19 [vivo x21 发布] <br>
 
 # 手机怎么做出来？
 
