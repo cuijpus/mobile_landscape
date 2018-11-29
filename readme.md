@@ -26,6 +26,8 @@
 
 2018.8.21 [OPPO R17] <br>
 
+2018.8.9 [三星电子正式发布了Galaxy Note9旗舰智能手机，以及最新的Galaxy Watch智能手表以及GalaxyHome智能音箱](http://mobile.zol.com.cn/695/6955327.html)<br>
+
 2018.6.12 [OPPO FindX] <br>
 
 2018.5.31 [Xiami 8]<br>
@@ -35,6 +37,8 @@
 2018.3.27 [P20发布] <br>
 
 2018.3.19 [vivo x21 发布] <br>
+
+2018.2.25 [三星在MWC2018上发布了三星Galaxy S9](https://baike.baidu.com/item/%E4%B8%89%E6%98%9FGalaxy%20S9/20297129?fr=aladdin)<br>
 
 # 手机怎么做出来？
 
