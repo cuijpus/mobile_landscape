@@ -7,7 +7,7 @@
 
 2018.10.31 [荣耀Magic2新品发布会，滑出魔法世界](https://tech.sina.com.cn/mobile/n/n/2018-10-31/doc-ifxeuwws9987336.shtml)<br>
 滑屏+高智商YOYO语音助手<br>
-荣耀Magic 2是唯一一款兼具100%全面屏+屏内光学指纹+3D结构光的完美全面屏解决方案，是全球首款滑屏全面屏手机? <br>
+[耀Magic 2是唯一一款兼具100%全面屏+屏内光学指纹+3D结构光的完美全面屏解决方案，是全球首款滑屏全面屏手机?](https://www.vmall.com/product/10086983017283.html) <br>
 
 2018.10.25 [小米在故宫博物院正式发布新一代旗舰机小米MIX3](https://baijiahao.baidu.com/s?id=1616017389774916305&wfr=spider&for=pc)<br>
 采用磁动力滑盖全面屏设计，DXOmark综合评分103分（暂居世界前三）<br>
