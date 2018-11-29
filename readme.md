@@ -54,18 +54,18 @@
     </tr>
     <tr>
         <th>华为</th>
-        <th>1月</th>
-        <th>2月</th>
-        <th>3月</th>
-        <th>4月</th>
-        <th>5月</th>
-        <th>6月</th>
-        <th>7月</th>
-        <th>8月</th>
-        <th>9月</th>
-        <th>10月</th>
-        <th>11月</th>
-        <th>12月</th>
+        <th></th>
+        <th></th>
+        <th>P20</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th>Mate20</th>
+        <th></th>
+        <th></th>
     </tr>
     <tr>
         <th>OPPO</th>
