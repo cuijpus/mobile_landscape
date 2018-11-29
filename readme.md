@@ -24,18 +24,18 @@
     </tr>
     <tr>
         <th>三星</th>
-        <th>1月</th>
-        <th>2月</th>
-        <th>3月</th>
-        <th>4月</th>
-        <th>5月</th>
-        <th>6月</th>
-        <th>7月</th>
-        <th>8月</th>
-        <th>9月</th>
-        <th>10月</th>
-        <th>11月</th>
-        <th>12月</th>
+        <th></th>
+        <th>S9</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th>Note9</th>
+        <th></th>
+        <th>A9S/A6S</th>
+        <th></th>
+        <th>A8S?</th>
     </tr>
     <tr>
         <th>苹果</th>
