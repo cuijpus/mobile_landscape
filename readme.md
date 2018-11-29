@@ -68,6 +68,21 @@
         <th></th>
     </tr>
     <tr>
+        <th>荣耀</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th>Play</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th>Magic2</th>
+        <th></th>
+        <th></th>
+    </tr>     
+    <tr>
         <th>OPPO</th>
         <th>1月</th>
         <th>2月</th>
@@ -158,6 +173,8 @@
 2018.8.9 [三星电子正式发布了Galaxy Note9旗舰智能手机，以及最新的Galaxy Watch智能手表以及GalaxyHome智能音箱](http://mobile.zol.com.cn/695/6955327.html)<br>
 
 2018.6.12 [OPPO FindX] <br>
+
+2018.6.6 [荣耀play & GPU Turbo] <br>
 
 2018.5.31 [Xiami 8]<br>
 
