@@ -17,7 +17,14 @@
 
 2018.10.23 [黑鲨游戏手机Helo发布：双液冷+RGB助你吃鸡](http://www.pcpop.com/article/5079381.shtml)<br>
 
+2018.10.16 [Mate 20 发布（10.16): AI升级双NPU，屏下指纹，双向反充，超广角，超微距，AI摄影大师，超级夜景，更多AI落地（AI智慧识物/AI翻译/AI语音助手）](http://tech.sina.com.cn/mobile/n/c/2018-10-17/doc-ifxeuwws5088583.shtml)<br>
+10.26国内发布，980芯片；
+[官网宣传页](https://sale.vmall.com/hwmate.html?cid=97010)<br>
+
+
 2018.9.5 [vivo X23发布：双涡轮引擎是亮点，Jovi物联成惊喜 ](https://www.leiphone.com/news/201809/1MM4KIwZPLpI4jlh.html)<br>
+
+
 
 # 手机怎么做出来？
 
