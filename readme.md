@@ -84,18 +84,18 @@
     </tr>     
     <tr>
         <th>OPPO</th>
-        <th>1月</th>
-        <th>2月</th>
-        <th>3月</th>
-        <th>4月</th>
-        <th>5月</th>
-        <th>6月</th>
-        <th>7月</th>
-        <th>8月</th>
-        <th>9月</th>
-        <th>10月</th>
-        <th>11月</th>
-        <th>12月</th>
+        <th></th>
+        <th></th>
+        <th>R15</th>
+        <th></th>
+        <th></th>
+        <th>FindX</th>
+        <th></th>
+        <th>R17</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
     </tr>   
     <tr>
         <th>VIVO</th>
