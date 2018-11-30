@@ -187,11 +187,8 @@
 
 ## 一个科普系列
 [手机是怎样做出来的（一）](http://baijiahao.baidu.com/s?id=1602352486034606340&wfr=spider&for=pc)<br>
-
+[手机是怎样做出来的（二）](http://baijiahao.baidu.com/s?id=1602393977421633023&wfr=spider&for=pc)<br>
 []()<br>
-
-[]()<br>
-
 []()<br>
 []()<br>
 []()<br>
