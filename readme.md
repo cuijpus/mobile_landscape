@@ -5,7 +5,12 @@
 2018.11.28 [三星A8s更多细节曝光 Infinity-O打孔屏](https://baijiahao.baidu.com/s?id=1618329090033675986&wfr=spider&for=pc)<br>
 2018.11.7 [三星首款“打孔屏”手机来了：不同于刘海屏、水滴屏](https://tech.sina.com.cn/mobile/n/n/2018-11-19/doc-ihmutuec1473260.shtml)<br>
 
->>折叠屏
+>>折叠屏<br>
+2018.11.30 [OPPO折叠屏专利曝光 或将于明年2月MWC发布](https://baijiahao.baidu.com/s?id=1618518981310513432&wfr=spider&for=pc)<br>
+2018.11.30 [三星折叠屏手机专利图流出：360度旋转很酷](https://baijiahao.baidu.com/s?id=1618516633151639988&wfr=spider&for=pc)<br>
+2018.11.20 [华为可折叠手机细节曝光 屏幕高达8英寸](https://tech.sina.com.cn/mobile/n/n/2018-11-20/doc-ihmutuec1791542.shtml)<br>
+2018.11.8 [这就是三星折叠屏面板！设计感完爆现在任意手机？](https://baijiahao.baidu.com/s?id=1616522121753573452&wfr=spider&for=pc)<br>
+2018.10.31 [柔宇科技抢先三星带来了一款可折叠屏手机](http://www.sohu.com/a/272433965_485557)<br>
 
 # 18年新品动态
 
