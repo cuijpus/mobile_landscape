@@ -11,6 +11,8 @@
 2018.11.20 [华为可折叠手机细节曝光 屏幕高达8英寸](https://tech.sina.com.cn/mobile/n/n/2018-11-20/doc-ihmutuec1791542.shtml)<br>
 2018.11.8 [这就是三星折叠屏面板！设计感完爆现在任意手机？](https://baijiahao.baidu.com/s?id=1616522121753573452&wfr=spider&for=pc)<br>
 2018.10.31 [柔宇科技抢先三星带来了一款可折叠屏手机](http://www.sohu.com/a/272433965_485557)<br>
+2018.10 [华为发力折叠屏 真机2019年上半年见](http://www.zdwang.com/show-238-50287-1.html)<br>
+
 
 # 18年新品动态
 
