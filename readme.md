@@ -193,3 +193,11 @@
 
 # 消费互动
 
+# 附录（手机常用术语）
+EMMC 
+UFS
+OLED（Organic Light-Emitting Diode，有机发光二极管），可以“自发光”
+AMOLED: Active Matrix Organic Light-Emitting Diode, 有源矩阵自发光二极管
+AMOLED屏幕的构造有三层，AMOLED屏幕+TouchScreenPanel(触控屏面板)+外保护玻璃。AMOLED是OLED技术的一种，OLED代表着它是自发光显示器，利用多层有机化合物来实现独立R、G、B三色光。
+
+
